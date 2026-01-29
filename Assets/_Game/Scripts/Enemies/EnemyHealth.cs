@@ -7,6 +7,7 @@ public class EnemyHealth : MonoBehaviour
     public float maxHealth = 100f;
     public float health = 100f;
     public Animator animator;
+    public SpriteRenderer sr;
     private static readonly int Dead = Animator.StringToHash("Dead");
 
     void Start()
