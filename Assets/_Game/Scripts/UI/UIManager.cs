@@ -19,15 +19,14 @@ public class MainMenu_ButtonManager : MonoBehaviour
         uiManager.OpenOptionsMenu();
     }
 
-    public void Button_LoadSceneByName(string sceneName)
-    {
-        sceneLoaderManager.LoadScene(sceneName);
-    }
-
     public void Button_LoadSceneByIndex(int index)
     {
         sceneLoaderManager.LoadScene(index);
 
     }
     
+    public void Button_ExitGame()
+    {
+        Application.Quit();
+    }
 }

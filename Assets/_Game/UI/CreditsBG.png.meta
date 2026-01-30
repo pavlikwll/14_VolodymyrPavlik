@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: adcff5bcbfc7749a888a440b377f1e32
+guid: 1460ca3d03125429b8f068e718e55005
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7391190875644747234
-    second: Volodymyr Pavlik 2_0
-  - first:
-      213: -2392238888266944410
-    second: Volodymyr Pavlik 2_1
-  - first:
-      213: -7282803070261800978
-    second: Volodymyr Pavlik 2_2
-  - first:
-      213: 4942076919005571340
-    second: Volodymyr Pavlik 2_3
+      213: 3307190627111718636
+    second: ADAE2969-87C5-48E8-A52C-AC681702A5F0_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -60,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -105,39 +96,43 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Volodymyr Pavlik 2_0
+      name: ADAE2969-87C5-48E8-A52C-AC681702A5F0_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 338
-        width: 1022
-        height: 643
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e12261e0f073d6990800000000000000
-      internalID: -7391190875644747234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Volodymyr Pavlik 2_1
-      rect:
-        serializedVersion: 2
-        x: 497
         y: 0
-        width: 2336
-        height: 591
+        width: 1536
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,52 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 66039fed76f0dced0800000000000000
-      internalID: -2392238888266944410
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Volodymyr Pavlik 2_2
-      rect:
-        serializedVersion: 2
-        x: 1514
-        y: 397
-        width: 1044
-        height: 535
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eefcbeb81394eea90800000000000000
-      internalID: -7282803070261800978
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Volodymyr Pavlik 2_3
-      rect:
-        serializedVersion: 2
-        x: 2084
-        y: 406
-        width: 1321
-        height: 275
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c09ebf906c8c59440800000000000000
-      internalID: 4942076919005571340
+      spriteID: ceece756a5085ed20800000000000000
+      internalID: 3307190627111718636
       vertices: []
       indices: 
       edges: []
@@ -210,10 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Volodymyr Pavlik 2_0: -7391190875644747234
-      Volodymyr Pavlik 2_1: -2392238888266944410
-      Volodymyr Pavlik 2_2: -7282803070261800978
-      Volodymyr Pavlik 2_3: 4942076919005571340
+      ADAE2969-87C5-48E8-A52C-AC681702A5F0_0: 3307190627111718636
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

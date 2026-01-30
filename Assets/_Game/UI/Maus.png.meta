@@ -1,10 +1,85 @@
 fileFormatVersion: 2
-guid: b267a5101cbfba14abf47337a831c181
+guid: dfdfd275ae024f54ab8c7dc636e2acb3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4169375630716007854
-    second: 71DA6DE8-A392-4B1D-936C-9A0DEE62430E_0
+      213: 7269608076741587338
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_0
+  - first:
+      213: -5938261175296905595
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_1
+  - first:
+      213: -8266397750622272440
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_2
+  - first:
+      213: 5367231535585253419
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_3
+  - first:
+      213: 3685997239190551998
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_4
+  - first:
+      213: -1238010584043059299
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_5
+  - first:
+      213: -5298024114245331727
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_6
+  - first:
+      213: -3619854932622134953
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_7
+  - first:
+      213: -4582411839866956713
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_8
+  - first:
+      213: 3901527035568100966
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_9
+  - first:
+      213: -1559816737126369268
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_10
+  - first:
+      213: 2662709330749488074
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_11
+  - first:
+      213: 5869655719643067638
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_12
+  - first:
+      213: 2018823490483737037
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_13
+  - first:
+      213: -8210096366043313370
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_14
+  - first:
+      213: 5383488871369388318
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_15
+  - first:
+      213: 4029317525235278707
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_16
+  - first:
+      213: -989928895990057316
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_17
+  - first:
+      213: -1414448354266098834
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_18
+  - first:
+      213: -6074357706728172172
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_19
+  - first:
+      213: 7471968594694158613
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_20
+  - first:
+      213: -8541156585669913470
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_21
+  - first:
+      213: 9097948292810295695
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_22
+  - first:
+      213: 4792459527630176033
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_23
+  - first:
+      213: -7235131770338340386
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_24
+  - first:
+      213: -4948524459055673803
+    second: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_25
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +112,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +126,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,7 +150,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -126,13 +201,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 71DA6DE8-A392-4B1D-936C-9A0DEE62430E_0
+      name: 561efc32-bcd3-41a0-a06b-1f85103a9b5a_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 1478
+        x: 570
+        y: 305
+        width: 445
+        height: 531
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +216,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25a800444f66326c0800000000000000
-      internalID: -4169375630716007854
+      spriteID: a813e7e9706d2e460800000000000000
+      internalID: 7269608076741587338
       vertices: []
       indices: 
       edges: []
@@ -151,7 +226,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: b17c2e0d9b8cb8440bb259c026a8e5ee
     internalID: 0
     vertices: []
     indices: 
@@ -161,7 +236,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      71DA6DE8-A392-4B1D-936C-9A0DEE62430E_0: -4169375630716007854
+      561efc32-bcd3-41a0-a06b-1f85103a9b5a_0: 7269608076741587338
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

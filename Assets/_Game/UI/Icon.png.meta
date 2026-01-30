@@ -1,19 +1,55 @@
 fileFormatVersion: 2
-guid: 5f39f15a5a5144e769c20258187abd8f
+guid: 935c874c60e871f44b2c7a1417e16bed
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2825574449357579794
-    second: A724DD9F-A683-468E-BDAC-090F1B40A512_0
+      213: -8163002061288840741
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_0
   - first:
-      213: 2708020730513587711
-    second: A724DD9F-A683-468E-BDAC-090F1B40A512_1
+      213: -9025042859708922377
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_1
   - first:
-      213: -8395128057235974422
-    second: A724DD9F-A683-468E-BDAC-090F1B40A512_2
+      213: -8668343816108580755
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_2
   - first:
-      213: 4061480561259160189
-    second: A724DD9F-A683-468E-BDAC-090F1B40A512_3
+      213: 7245442971258926881
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_3
+  - first:
+      213: -129307368768285514
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_4
+  - first:
+      213: -7023862552314556806
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_5
+  - first:
+      213: -2861206701467902983
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_6
+  - first:
+      213: 140086537882490105
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_7
+  - first:
+      213: 4590170747426333842
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_8
+  - first:
+      213: -7252118277647701407
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_9
+  - first:
+      213: 4044187768039536029
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_10
+  - first:
+      213: -1720735242496977343
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_11
+  - first:
+      213: 4306687814474095373
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_12
+  - first:
+      213: -4024429392211291038
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_13
+  - first:
+      213: -2207011111552819385
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_14
+  - first:
+      213: 400931829709126555
+    second: 72087863-40c6-42ef-9f38-f4d1d33c12a6_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -60,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -84,7 +120,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -105,17 +141,43 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: A724DD9F-A683-468E-BDAC-090F1B40A512_0
+      name: 72087863-40c6-42ef-9f38-f4d1d33c12a6_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 0
-        width: 1524
-        height: 1024
+        x: 420
+        y: 229
+        width: 696
+        height: 633
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,74 +186,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ee91f93420b89c8d0800000000000000
-      internalID: -2825574449357579794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: A724DD9F-A683-468E-BDAC-090F1B40A512_1
-      rect:
-        serializedVersion: 2
-        x: 945
-        y: 995
-        width: 9
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ffdf7a6b182d49520800000000000000
-      internalID: 2708020730513587711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: A724DD9F-A683-468E-BDAC-090F1B40A512_2
-      rect:
-        serializedVersion: 2
-        x: 963
-        y: 994
-        width: 6
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ae6d880e2838e7b80800000000000000
-      internalID: -8395128057235974422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: A724DD9F-A683-468E-BDAC-090F1B40A512_3
-      rect:
-        serializedVersion: 2
-        x: 944
-        y: 39
-        width: 8
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d72a1044d074d5830800000000000000
-      internalID: 4061480561259160189
+      spriteID: bd1e81cefd037be80800000000000000
+      internalID: -8163002061288840741
       vertices: []
       indices: 
       edges: []
@@ -200,7 +196,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: cc6f1208ef5f83347bd5120c2deba182
     internalID: 0
     vertices: []
     indices: 
@@ -210,10 +206,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      A724DD9F-A683-468E-BDAC-090F1B40A512_0: -2825574449357579794
-      A724DD9F-A683-468E-BDAC-090F1B40A512_1: 2708020730513587711
-      A724DD9F-A683-468E-BDAC-090F1B40A512_2: -8395128057235974422
-      A724DD9F-A683-468E-BDAC-090F1B40A512_3: 4061480561259160189
+      72087863-40c6-42ef-9f38-f4d1d33c12a6_0: -8163002061288840741
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

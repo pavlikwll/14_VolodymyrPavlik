@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -10,6 +11,7 @@ public class Health : MonoBehaviour
     public Health warriorHealth;
     public Animator animator;
     private static readonly int Dead = Animator.StringToHash("Dead");
+    public GameObject gameOverMenu;
 
     [Header("UI")]
     
@@ -41,6 +43,7 @@ public class Health : MonoBehaviour
             Debug.Log("Player Died");
             animator.SetTrigger(Dead);
             Destroy(gameObject, 1.0f);
+            gameOverMenu.SetActive(true);
         }
     }
 
