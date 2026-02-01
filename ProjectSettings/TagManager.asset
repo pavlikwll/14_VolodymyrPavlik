@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Enemy
   - OneWay
+  - Stuff
   layers:
   - Default
   - TransparentFX

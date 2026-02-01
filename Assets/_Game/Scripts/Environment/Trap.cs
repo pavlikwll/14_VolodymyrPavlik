@@ -17,11 +17,17 @@ public class TRap : MonoBehaviour
             }
         }
         
-        EnvironmentHealth environmentHealth = other.GetComponent<EnvironmentHealth>();
+        /*EnvironmentHealth environmentHealth = other.GetComponent<EnvironmentHealth>();
         if (environmentHealth != null)
         {
             environmentHealth.TakeDamage(damage);
             Destroy(gameObject);
+        }*/
+        
+        if (other.CompareTag("Stuff"))
+        {
+            Destroy(other.gameObject);
+            return;
         }
     }
 }
