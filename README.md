@@ -14,6 +14,15 @@ The main goal of the project was to combine visual design, level composition, an
 
 ---
 
+## 🕹️ Game Concept
+
+The player explores a dangerous dungeon environment filled with traps and hostile creatures.  
+By overcoming challenges and defeating enemies, the player collects crystal fragments scattered throughout the level.
+
+Once all fragments are gathered, the central crystal can be activated, releasing a healing aura that restores the player after surviving the journey.
+
+---
+
 ## 🕹️ Gameplay
 
 - 2D Side-Scrolling Platformer
