@@ -50,10 +50,10 @@ I was responsible for:
 
 ## 📸 Screenshots
 
-![Gameplay](images/screenshot_01.png)
-![Gameplay](images/screenshot_02.png)
-![Gameplay](images/screenshot_03.png)
-![Gameplay](images/screenshot_04.png)
+![Gameplay](https://github.com/pavlikwll/14_VolodymyrPavlik/blob/main/screenshot_01.png)
+![Gameplay](https://github.com/pavlikwll/14_VolodymyrPavlik/blob/main/screenshot_02.png)
+![Gameplay](https://github.com/pavlikwll/14_VolodymyrPavlik/blob/main/screenshot_03.png)
+![Gameplay](https://github.com/pavlikwll/14_VolodymyrPavlik/blob/main/screenshot_04.png)
 
 ---
 
